@@ -1,9 +1,10 @@
 {
   "market": "BTC/USD",
-  "timestamp": "2026-02-14T14:00:00Z",
-  "signal": "hold",
+  "timestamp": "2026-02-14T14:45:00Z",
+  "signal": "buy",
   "details": {
-    "rsi": 55.2,
-    "volume": 1200.5
+    "rsi": 30.0,
+    "volume": 1500.0,
+    "test": true
   }
 }
